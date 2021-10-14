@@ -2,10 +2,6 @@
 
  這邊將陸續整理一些自己在職場上常使用到的學習筆記或是經驗分享
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fshuming-yang.github.io%2Fpush_boundary&count_bg=%2379C83D&title_bg=%231F2D5C&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
 | 主題                              |
 | --------------------------------- |
 | [程式碼的撰寫](#程式碼的撰寫風格) |
@@ -57,3 +53,6 @@
 
 ---
 ###### tags: 學習筆記
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fshuming-yang.github.io%2Fpush_boundary&count_bg=%2379C83D&title_bg=%231F2D5C&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
