@@ -158,7 +158,7 @@ http://images.google.com/images?num=30&amp;q=larry+bird
 * **Example 2**
 
 ```html
-<table border="1" style="color:orange;">
+<table border="1" style="color:white; border:2px #cccccc solid;" cellpadding="10">
 	<tr>
 		<td rowspan="4" bgcolor="#836FFF"> 合併多行<br/>
 		                 rowspan="n"，跨n行合併<br/>
@@ -186,7 +186,7 @@ http://images.google.com/images?num=30&amp;q=larry+bird
 
 顯示出來效果如下：
 
-<table border="1" style="color:orange;">
+<table border="1" style="color:white; border:2px #cccccc solid;" cellpadding="10">
 	<tr>
 		<td rowspan="4" bgcolor="#836FFF"> 合併多行<br/>
 		                 rowspan="n"，跨n行合併<br/>
