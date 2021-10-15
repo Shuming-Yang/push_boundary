@@ -1,4 +1,4 @@
-## <font id='top'>Typora介紹</font>
+#### <font id='top'>Typora介紹</font>
 
 Typora是一款簡潔小巧並採用實時預覽機制的markdown編輯器，不同的編輯器所支援的markdown語法標準也略有不同，Typora所採用的是Typora使用的是[GitHub Flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)標準。其所編寫的文檔可以導出可 HTML 、Word、圖像、PDF、Epub 等等的多種格式。
 
@@ -25,7 +25,7 @@ Typora是一款簡潔小巧並採用實時預覽機制的markdown編輯器，不
 
 ---
 
-### 數學公式
+##### 數學公式
 
 當需要在編輯器中插入數學公式時，可以使用成對的兩個符號"$$"將LeTeX或是TeX格式的數學公式包裹起來，由編輯器來實現它。以下為範例：
 
@@ -44,7 +44,7 @@ $$
 
 ---
 
-### 即時目錄
+##### 即時目錄
 
 輸入 `[TOC]` 即可創建一個目錄。他會從文檔中提取所有標題並即時更新。
 
@@ -54,7 +54,7 @@ $$
 
 ---
 
-### 多媒體內嵌
+##### 多媒體內嵌
 
 透過HTML iframe機制即時呈現連結（視頻、音頻、MP3等各式多媒體串流）
 
@@ -78,7 +78,7 @@ $$
 
 ---
 
-### emoji表情符號
+##### emoji表情符號
 
 輸入符號":"加上第一個關鍵字母時，軟體會自動列出表情符號快捷以供選擇。
 
@@ -90,11 +90,11 @@ $$
 
 ---
 
-### mermaid繪圖
+##### mermaid繪圖
 
 使用mermaid來繪製各種流程圖、方塊圖等等：以下以各式範例作為說明。
 
-#### sequenceDiagram
+###### sequenceDiagram
 
 輸入
 
@@ -133,7 +133,7 @@ RunSimulator-->>main: Finalize program.
 [回到頁首](#top)
 
 ---
-#### sequence
+###### sequence
 
 輸入
 
@@ -172,7 +172,7 @@ Note right of ClassD: Manager of Team3
 [回到頁首](#top)
 
 ---
-#### classDiagram
+###### classDiagram
 
 輸入
 
@@ -235,7 +235,7 @@ classDiagram
 [回到頁首](#top)
 
 ---
-#### gantt
+###### gantt
 
 輸入
 
@@ -310,7 +310,7 @@ classDiagram
 [回到頁首](#top)
 
 ---
-#### flow
+###### flow
 
 輸入
 
@@ -403,7 +403,7 @@ cond(no)->sub1(right)->op
 [回到頁首](#top)
 
 ---
-#### stateDiagram
+###### stateDiagram
 
 輸入
 
@@ -438,7 +438,7 @@ stateDiagram
 [回到頁首](#top)
 
 ---
-#### pie
+###### pie
 
 輸入
 
@@ -465,7 +465,7 @@ pie
 [回到頁首](#top)
 
 ---
-#### graph
+###### graph
 
 輸入
 
