@@ -13,9 +13,8 @@
 
    ![進入Github Editor](../Image/GithubEnterEditor.png)
 
-   
-
-3. 
+3. 當做完對應的修改後，就可點選左邊的git圖示，並輸入版本說明後，再按Command + Enter，就可將檔案同步回Github中。
+ 
 
 
 
