@@ -14,12 +14,14 @@
    ![進入Github Editor](../Image/GithubEnterEditor.png)
 
 3. 當做完對應的修改後，就可點選左邊的git圖示，並輸入版本說明後，再按Command + Enter，就可將檔案同步回Github中。
- 
 
+   ![Commit to Github](GithubCommit.png)
 
+4. 同步後，可以回到Repository頁面中檢視結果
 
+   ![Github Committed Result](GithubResult.png)![]()
 
-
+5. 以上為最基本的介面操作，至於其中的細節，請大家自行摸索了！ 詳細的細節可以從Github編輯器內的Help頁面中，找到詳盡的說明。
 
 
 
