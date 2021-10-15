@@ -6,11 +6,11 @@ Typora是一款簡潔小巧並採用實時預覽機制的markdown編輯器，不
 
 | 項目                                                         |
 | ------------------------------------------------------------ |
-| [數學公式](#數學公式) (在此網頁無法直接轉譯markdown語法顯示 可透過Typora輸出成HTML等檔案來顯示) |
-| [即時目錄](#即時目錄) (在此網頁無法直接轉譯markdown語法顯示 可透過Typora輸出成HTML等檔案來顯示) |
+| [數學公式](#數學公式) 在此網頁無法直接轉譯markdown語法顯示 可透過Typora輸出成HTML等檔案來顯示 |
+| [即時目錄](#即時目錄) 在此網頁無法直接轉譯markdown語法顯示 可透過Typora輸出成HTML等檔案來顯示 |
 | [多媒體內嵌](#多媒體內嵌)                                    |
-| [emoji表情符號](#emoji表情符號) (在此網頁無法直接轉譯markdown語法顯示 可透過Typora輸出成HTML等檔案來顯示) |
-| [mermaid繪圖](#mermaid繪圖) (在此網頁無法直接轉譯markdown語法顯示 可透過Typora輸出成HTML等檔案來顯示) |
+| [emoji表情符號](#emoji表情符號) 在此網頁無法直接轉譯markdown語法顯示 可透過Typora輸出成HTML等檔案來顯示 |
+| [mermaid繪圖](#mermaid繪圖) 在此網頁無法直接轉譯markdown語法顯示 可透過Typora輸出成HTML等檔案來顯示 |
 | [sequenceDiagram](#sequenceDiagram)                          |
 | [sequence](#sequence)                                        |
 | [classDiagram](#classDiagram)                                |
