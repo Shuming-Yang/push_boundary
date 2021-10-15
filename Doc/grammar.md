@@ -160,26 +160,26 @@ http://images.google.com/images?num=30&amp;q=larry+bird
 ```html
 <table>
 	<tr>
-		<td rowspan="4" bgcolor=#836FFF> 合併多行<br/>
+		<td rowspan="4" bgcolor="#836FFF"> 合併多行<br/>
 		                 rowspan="n"，跨n行合併<br/>
 		</td>
-	<td bgcolor=#8B5A00>ITEM</td>
-	<td bgcolor=#8B5A00>VALUE</td>
+	<td bgcolor="#8B5A00">ITEM</td>
+	<td bgcolor="#8B5A00">VALUE</td>
 	</tr>
 	<tr>
-		<td bgcolor=#0000EE>TO-DO</td>
-		<td bgcolor=#8E8E8E>5</td>
+		<td bgcolor="#0000EE">TO-DO</td>
+		<td bgcolor="#8E8E8E">5</td>
 	</tr>
 	<tr>
-		<td bgcolor=#228B22>DONE</td>
-		<td bgcolor=#8E8E8E>6</td>
+		<td bgcolor="#228B22">DONE</td>
+		<td bgcolor="#8E8E8E">6</td>
 	</tr>
 	<tr>
-		<td bgcolor=#FF3030>REJECT</td>
-		<td bgcolor=#8E8E8E>7</td>
+		<td bgcolor="#FF3030">REJECT</td>
+		<td bgcolor="#8E8E8E">7</td>
 	</tr>
 	<tr>
-		<td colspan="3" bgcolor=#4B0082>RESERVED</td>
+		<td colspan="3" bgcolor="#4B0082">RESERVED</td>
 	</tr>
 </table>
 ```
