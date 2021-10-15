@@ -64,7 +64,7 @@ markdown支援數種常用的文字屬性設置，可以用以下語法快速地
   - [ ] 列表項目4: - [ ] 列表項目4
   - [x] 列表項目5: - [x] 列表項目5
   
-* 行間\<abbr title="Hypertext Markup Language">HTML\</abbr>亦受支援：行間<abbr title="Hypertext Markup Language">HTML</abbr>亦受支援
+* 
 
 
 
