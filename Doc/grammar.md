@@ -7,7 +7,7 @@
 | [插入符號](#插入符號)                 |
 | [分隔線](#分隔線)                     |
 | [特殊字元自動轉換](#特殊字元自動轉換) |
-| [HTML語法](#HTML語法)                 |
+| [網頁語法](#網頁語法)                 |
 | [連結](#連結)                         |
 | [圖片](#圖片)                         |
 | [程式碼區塊](#程式碼區塊)s            |
@@ -85,7 +85,7 @@ http://images.google.com/images?num=30&amp;q=larry+bird
 
 ---
 
-## HTML語法
+## 網頁語法
 
 行間\<abbr title="Hypertext Markup Language">HTML\</abbr>亦支援：<abbr title="Hypertext Markup Language">HTML</abbr>。
 
