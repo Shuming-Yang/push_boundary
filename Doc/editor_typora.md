@@ -1,4 +1,4 @@
-## 編輯工具介紹-Typora
+## Typora介紹
 
 Typora是一款簡潔小巧並採用實時預覽機制的markdown編輯器，不同的編輯器所支援的markdown語法標準也略有不同，Typora所採用的是Typora使用的是[GitHub Flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)標準。其所編寫的文檔可以導出可 HTML 、Word、圖像、PDF、Epub 等等的多種格式。
 
@@ -40,7 +40,7 @@ $$
 \mathbf{V}_1\times\mathbf{V}_2 = \mathbf{X}_3
 $$
 
-[回到頁首](#編輯工具介紹-Typora)
+[回到頁首](#Typora介紹)
 
 ---
 
@@ -50,7 +50,7 @@ $$
 
 
 
-[回到頁首](#編輯工具介紹-Typora)
+[回到頁首](#Typora介紹)
 
 ---
 
@@ -74,7 +74,7 @@ $$
 
 
 
-[回到頁首](#編輯工具介紹-Typora)
+[回到頁首](#Typora介紹)
 
 ---
 
@@ -86,7 +86,7 @@ $$
 
 
 
-[回到頁首](#編輯工具介紹-Typora)
+[回到頁首](#Typora介紹)
 
 ---
 
@@ -130,7 +130,7 @@ Thread_MAIN-->>RunSimulator: All sub-thread is done, finalize main thread.
 RunSimulator-->>main: Finalize program.
 ```
 
-[回到頁首](#編輯工具介紹-Typora)
+[回到頁首](#Typora介紹)
 
 ---
 #### sequence
@@ -169,7 +169,7 @@ participant ClassD
 Note right of ClassD: Manager of Team3
 ```
 
-[回到頁首](#編輯工具介紹-Typora)
+[回到頁首](#Typora介紹)
 
 ---
 #### classDiagram
@@ -232,7 +232,7 @@ classDiagram
 
 ​     
 
-[回到頁首](#編輯工具介紹-Typora)
+[回到頁首](#Typora介紹)
 
 ---
 #### gantt
@@ -307,7 +307,7 @@ classDiagram
 
 
 
-[回到頁首](#編輯工具介紹-Typora)
+[回到頁首](#Typora介紹)
 
 ---
 #### flow
@@ -400,7 +400,7 @@ cond(no)->sub1(right)->op
 
 
 
-[回到頁首](#編輯工具介紹-Typora)
+[回到頁首](#Typora介紹)
 
 ---
 #### stateDiagram
@@ -435,7 +435,7 @@ stateDiagram
 
 
 
-[回到頁首](#編輯工具介紹-Typora)
+[回到頁首](#Typora介紹)
 
 ---
 #### pie
@@ -462,7 +462,7 @@ pie
     "To-Do" : 13
 ```
 
-[回到頁首](#編輯工具介紹-Typora)
+[回到頁首](#Typora介紹)
 
 ---
 #### graph
@@ -521,7 +521,7 @@ A[方形] --> B(圓角)
 
 
 
-[回到頁首](#編輯工具介紹-Typora)
+[回到頁首](#Typora介紹)
 
 ---
 
