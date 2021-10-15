@@ -10,7 +10,7 @@
 | [網頁語法](#網頁語法)                 |
 | [連結](#連結)                         |
 | [圖片](#圖片)                         |
-| [程式碼區塊](#程式碼區塊)s            |
+| [程式碼區塊](#程式碼區塊)             |
 
 
 
@@ -210,6 +210,29 @@ http://images.google.com/images?num=30&amp;q=larry+bird
 		<td colspan="3" bgcolor="#4B0082">RESERVED</td>
 	</tr>
 </table>
+
+
+
+***NOTE***:
+
+同時，markdown也有支援CSS語法，讓文件撰寫者可以輸入各式各樣的CSS語法來豐富輸出的文檔樣貌。
+這個部分因為同時牽涉到CSS語法知識以及再添加上大量語法後，markdown原始文檔將變得更加複雜化，所以這篇章就不贅述了。只需要直接在文檔中加上CSS語法，即可產生作用：如下所示：
+
+```tex
+h6 {
+    font-size: 1em;      
+    /*字號*/
+    
+    line-height: 1.43;   
+    /*行高*/
+    
+    text-shadow: 0.08em 0em rgb(144,174,176);   
+    /*字型陰影粗細、方向、顏色*/
+    
+    padding-left:3px;    
+    /* 左縮排 */
+}
+```
 
 
 
