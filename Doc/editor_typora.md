@@ -11,14 +11,14 @@ Typora是一款簡潔小巧並採用實時預覽機制的markdown編輯器，不
 | [多媒體內嵌](#多媒體內嵌)                                    |
 | [emoji表情符號](#emoji表情符號) 在此網頁無法直接轉譯markdown語法顯示 可透過Typora輸出成HTML等檔案來顯示 |
 | [mermaid繪圖](#mermaid繪圖) 在此網頁無法直接轉譯markdown語法顯示 可透過Typora輸出成HTML等檔案來顯示 |
-| [sequenceDiagram](#sequenceDiagram)                          |
-| [sequence](#sequence)                                        |
-| [classDiagram](#classDiagram)                                |
-| [gantt](#gantt)                                              |
-| [flow](#flow)                                                |
-| [stateDiagram](#stateDiagram)                                |
-| [pie](#pie)                                                  |
-| [graph](#graph)                                              |
+| &nbsp;&nbsp;&nbsp;&nbsp;[sequenceDiagram](#sequenceDiagram)  |
+| &nbsp;&nbsp;&nbsp;&nbsp;[sequence](#sequence)                |
+| &nbsp;&nbsp;&nbsp;&nbsp;[classDiagram](#classDiagram)        |
+| &nbsp;&nbsp;&nbsp;&nbsp;[gantt](#gantt)                      |
+| &nbsp;&nbsp;&nbsp;&nbsp;[flow](#flow)                        |
+| &nbsp;&nbsp;&nbsp;&nbsp;[stateDiagram](#stateDiagram)        |
+| &nbsp;&nbsp;&nbsp;&nbsp;[pie](#pie)                          |
+| &nbsp;&nbsp;&nbsp;&nbsp;[graph](#graph)                      |
 |                                                              |
 
 [回到上一頁](toolintro.md)
