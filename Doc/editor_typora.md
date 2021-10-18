@@ -29,13 +29,15 @@ Typora是一款簡潔小巧並採用實時預覽機制的markdown編輯器，不
 
 當需要在編輯器中插入數學公式時，可以使用成對的兩個符號"$$"將LeTeX或是TeX格式的數學公式包裹起來，由編輯器來實現它。以下為範例：
 
+輸入
+
 ```tex
 $$
 \mathbf{V}_1\times\mathbf{V}_2 = \mathbf{X}_3
 $$
 ```
 
-輸出結果如下：
+顯示
 
 ![example_mathbf](../Image/example_mathbf.png)
 
@@ -46,6 +48,14 @@ $$
 ##### 即時目錄
 
 輸入 `[TOC]` 即可創建一個目錄。他會從文檔中提取所有標題並即時更新。
+
+輸入```[TOC]```
+
+
+
+顯示
+
+![example TOC](../Image/example_TOC.png)
 
 
 
@@ -59,13 +69,15 @@ $$
 
 例如內嵌Youtube的支援，舉例如下。
 
+輸入
+
 ```html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lcXW7qgLM0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IDSPePDWp0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
-​	顯示結果為
+顯示
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lcXW7qgLM0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -81,7 +93,9 @@ $$
 
 輸入符號":"加上第一個關鍵字母時，軟體會自動列出表情符號快捷以供選擇。
 
-例如輸入 ```:smile:```顯示為 
+例如輸入 ```:smile:```
+
+顯示 
 
 ![example emoji](../Image/example_emoji.png)
 
@@ -115,7 +129,7 @@ RunSimulator-->>main: Finalize program.
 ```
 ````
 
-則顯示為![example mermaid sequenceDiagram](../Image/example_mermaid_sequenceDiagram.png)
+顯示![example mermaid sequenceDiagram](../Image/example_mermaid_sequenceDiagram.png)
 
 
 
@@ -142,7 +156,7 @@ Note right of ClassD: Manager of Team3
 ```
 ````
 
-則顯示為
+顯示
 
 ![example mermaid sequence](../Image/example_mermaid_sequence.png)
 
@@ -289,7 +303,7 @@ cond(no)->sub1(right)->op
 ```
 ````
 
-輸出
+顯示
 
 ![example mermaid flow Top-Down](../Image/example_mermaid_flowTD.png)
 
@@ -325,6 +339,8 @@ stateDiagram
 ````
 
 
+
+顯示
 
 ![example mermaid stateDiagram](../Image/example_mermaid_stateDiagram.png)
 
