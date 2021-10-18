@@ -36,9 +36,8 @@ $$
 ```
 
 輸出結果如下：
-$$
-\mathbf{V}_1\times\mathbf{V}_2 = \mathbf{X}_3
-$$
+
+![example_mathbf](../Image/example_mathbf.png)
 
 [回到頁首](#top)
 
@@ -82,7 +81,9 @@ $$
 
 輸入符號":"加上第一個關鍵字母時，軟體會自動列出表情符號快捷以供選擇。
 
-例如輸入 ```:smile:```顯示為 :smile:
+例如輸入 ```:smile:```顯示為 
+
+![example emoji](../Image/example_emoji.png)
 
 
 
@@ -114,21 +115,9 @@ RunSimulator-->>main: Finalize program.
 ```
 ````
 
-則顯示為
+則顯示為![example mermaid sequenceDiagram](../Image/example_mermaid_sequenceDiagram.png)
 
-```mermaid
-sequenceDiagram
-Title: 標題：sequenceDiagram使用範例
-main->>RunSimulator: Function Flow
-Note over RunSimulator: Create Thread_MAIN
-RunSimulator->>Thread_MAIN: Function Flow
-Note over Thread_MAIN: Create Thread_UT
-Thread_MAIN->>Thread_UT: Function FLow
-Note over Thread_UT: Do all tests in all suites for UT
-Thread_UT-->>Thread_MAIN: All UT is done, finalize thread
-Thread_MAIN-->>RunSimulator: All sub-thread is done, finalize main thread.
-RunSimulator-->>main: Finalize program.
-```
+
 
 [回到頁首](#top)
 
@@ -155,19 +144,9 @@ Note right of ClassD: Manager of Team3
 
 則顯示為
 
-```sequence
-Title: 標題：sequence使用範例
-ClassA->ClassB: Request Resource
-Note right of ClassB: Manager of Team1
-Note left of ClassA: User
-ClassB->ClassC: Request Co-Work
-Note right of ClassC: Manager of Team2
-ClassC-->>ClassA: Co-Work with ClassB
-ClassA->ClassB: Still have available resource
-Note over ClassB,ClassC: Same level modules
-participant ClassD
-Note right of ClassD: Manager of Team3
-```
+![example mermaid sequence](../Image/example_mermaid_sequence.png)
+
+
 
 [回到頁首](#top)
 
@@ -204,33 +183,9 @@ classDiagram
 
 顯示
 
-
-     ```mermaid
-     classDiagram
-           Animal <|-- Duck
-           Animal <|-- Fish
-           Animal <|-- Zebra
-           Animal : +int age
-           Animal : +String gender
-           Animal: +isMammal()
-           Animal: +mate()
-           class Duck{
-               +String beakColor
-               +swim()
-               +quack()
-           }
-           class Fish{
-               -int sizeInFeet
-               -canEat()
-           }
-           class Zebra{
-               +bool is_wild
-               +run()
-           }
-     ```
+![example mermaid classDiagram](../Image/example_mermaid_classDiagram.png)
 
 
-​     
 
 [回到頁首](#top)
 
@@ -274,36 +229,7 @@ classDiagram
 
 顯示
 
-```mermaid
-%% Example with selection of syntaxes
-        gantt
-        dateFormat  YYYY-MM-DD
-        title GANTT圖顯示範例
-
-        section A section
-        Completed task            :done,    des1, 2014-01-06,2014-01-08
-        Active task               :active,  des2, 2014-01-09, 3d
-        Future task               :         des3, after des2, 5d
-        Future task2               :         des4, after des3, 5d
-
-        section Critical tasks
-        Completed task in the critical line :crit, done, 2014-01-06,24h
-        Implement parser and jison          :crit, done, after des1, 2d
-        Create tests for parser             :crit, active, 3d
-        Future task in critical line        :crit, 5d
-        Create tests for renderer           :2d
-        Add to mermaid                      :1d
-
-        section Documentation
-        Describe gantt syntax               :active, a1, after des1, 3d
-        Add gantt diagram to demo page      :after a1  , 20h
-        Add another diagram to demo page    :doc1, after a1  , 48h
-
-        section Last section
-        Describe gantt syntax               :after doc1, 3d
-        Add gantt diagram to demo page      : 20h
-        Add another diagram to demo page    : 48h
-```
+![example mermaid gantt](../Image/example_mermaid_gantt.png)
 
 
 
@@ -329,16 +255,11 @@ cond(no)->op
 
 顯示
 
-```flow
-st=>start: Start
-op=>operation: Your Operation
-cond=>condition: Yes or No?
-e=>end
+![example mermaid flow](../Image/example_mermaid_flow.png)
 
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
+
+
+---
 
 輸入
 
@@ -370,31 +291,13 @@ cond(no)->sub1(right)->op
 
 輸出
 
-```flow
-st=>start: 開始框
-op=>operation: 處理框
-cond=>condition: 判斷框(是或否?)
-sub1=>subroutine: 子流程
-io=>inputoutput: 輸入輸出框
-e=>end: 結束框
-st->op->cond
-cond(yes)->io->e
-cond(no)->sub1(right)->op
-```
-
-```flow
-st=>start: 開始框
-op=>operation: 處理框
-cond=>condition: 判斷框(是或否?)
-sub1=>subroutine: 子流程
-io=>inputoutput: 輸入輸出框
-e=>end: 結束框
-st(right)->op(right)->cond
-cond(yes)->io(bottom)->e
-cond(no)->sub1(right)->op
-```
+![example mermaid flow Top-Down](../Image/example_mermaid_flowTD.png)
 
 
+
+
+
+![example mermaid flow Left-Right](../Image/example_mermaid_flowLR.png)
 
 
 
@@ -421,17 +324,9 @@ stateDiagram
 ```
 ````
 
-```mermaid
-stateDiagram
-		title: 狀態圖顯示範例
-    [*] --> Still
-    Still --> [*]
 
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-```
+
+![example mermaid stateDiagram](../Image/example_mermaid_stateDiagram.png)
 
 
 
@@ -454,13 +349,11 @@ pie
 
 顯示
 
-```mermaid
-pie
-    title 圓餅圖（Pie圖）顯示範例
-    "Task" : 112
-    "Issue" : 328
-    "To-Do" : 13
-```
+![example mermaid pie](../Image/example_mermaid_pie.png)
+
+
+
+
 
 [回到頁首](#top)
 
@@ -482,16 +375,13 @@ A[方形] -->B(圓角)
 
 顯示
 
-```mermaid
-graph LR
-A[方形] -->B(圓角)
-    B --> C{條件A}
-    C -->|a=1| D[結果1]
-    C -->|a=2| E[結果2]
-    F[橫向流程圖]
-```
+![example mermaid graph Left-Right](../Image/example_mermaid_graphLR.png)
 
 
+
+
+
+---
 
 輸入
 
@@ -508,16 +398,9 @@ A[方形] --> B(圓角)
 
 顯示
 
-```mermaid
-graph TD
-A[方形] --> B(圓角)
-    B --> C{條件A}
-    C --> |a=1| D[結果1]
-    C --> |a=2| E[結果2]
-    F[縱向流程圖]
-```
 
 
+![example mermaid graph Top-Down](../Image/example_mermaid_graphTD.png)
 
 
 
