@@ -39,7 +39,7 @@ $$
 
 顯示
 
-![example_mathbf](../Image/example_mathbf.png)
+![example_mathbf](../../Image/example_mathbf.png)
 
 [回到頁首](#top)
 
@@ -55,7 +55,7 @@ $$
 
 顯示
 
-![example TOC](../Image/example_TOC.png)
+![example TOC](../../Image/example_TOC.png)
 
 
 
@@ -97,7 +97,7 @@ $$
 
 顯示 
 
-![example emoji](../Image/example_emoji.png)
+![example emoji](../../Image/example_emoji.png)
 
 
 
@@ -129,7 +129,7 @@ RunSimulator-->>main: Finalize program.
 ```
 ````
 
-顯示![example mermaid sequenceDiagram](../Image/example_mermaid_sequenceDiagram.png)
+顯示![example mermaid sequenceDiagram](../../Image/example_mermaid_sequenceDiagram.png)
 
 
 
@@ -158,7 +158,7 @@ Note right of ClassD: Manager of Team3
 
 顯示
 
-![example mermaid sequence](../Image/example_mermaid_sequence.png)
+![example mermaid sequence](../../Image/example_mermaid_sequence.png)
 
 
 
@@ -197,7 +197,7 @@ classDiagram
 
 顯示
 
-![example mermaid classDiagram](../Image/example_mermaid_classDiagram.png)
+![example mermaid classDiagram](../../Image/example_mermaid_classDiagram.png)
 
 
 
@@ -243,7 +243,7 @@ classDiagram
 
 顯示
 
-![example mermaid gantt](../Image/example_mermaid_gantt.png)
+![example mermaid gantt](../../Image/example_mermaid_gantt.png)
 
 
 
@@ -269,7 +269,7 @@ cond(no)->op
 
 顯示
 
-![example mermaid flow](../Image/example_mermaid_flow.png)
+![example mermaid flow](../../Image/example_mermaid_flow.png)
 
 
 
@@ -305,13 +305,13 @@ cond(no)->sub1(right)->op
 
 顯示
 
-![example mermaid flow Top-Down](../Image/example_mermaid_flowTD.png)
+![example mermaid flow Top-Down](../../Image/example_mermaid_flowTD.png)
 
 
 
 
 
-![example mermaid flow Left-Right](../Image/example_mermaid_flowLR.png)
+![example mermaid flow Left-Right](../../Image/example_mermaid_flowLR.png)
 
 
 
@@ -342,7 +342,7 @@ stateDiagram
 
 顯示
 
-![example mermaid stateDiagram](../Image/example_mermaid_stateDiagram.png)
+![example mermaid stateDiagram](../../Image/example_mermaid_stateDiagram.png)
 
 
 
@@ -365,7 +365,7 @@ pie
 
 顯示
 
-![example mermaid pie](../Image/example_mermaid_pie.png)
+![example mermaid pie](../../Image/example_mermaid_pie.png)
 
 
 
@@ -391,7 +391,7 @@ A[方形] -->B(圓角)
 
 顯示
 
-![example mermaid graph Left-Right](../Image/example_mermaid_graphLR.png)
+![example mermaid graph Left-Right](../../Image/example_mermaid_graphLR.png)
 
 
 
@@ -416,7 +416,7 @@ A[方形] --> B(圓角)
 
 
 
-![example mermaid graph Top-Down](../Image/example_mermaid_graphTD.png)
+![example mermaid graph Top-Down](../../Image/example_mermaid_graphTD.png)
 
 
 
