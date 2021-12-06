@@ -136,6 +136,7 @@ RunSimulator-->>main: Finalize program.
 [回到頁首](#top)
 
 ---
+
 ###### sequence
 
 輸入
@@ -165,6 +166,7 @@ Note right of ClassD: Manager of Team3
 [回到頁首](#top)
 
 ---
+
 ###### classDiagram
 
 輸入
@@ -204,6 +206,7 @@ classDiagram
 [回到頁首](#top)
 
 ---
+
 ###### gantt
 
 輸入
@@ -250,6 +253,7 @@ classDiagram
 [回到頁首](#top)
 
 ---
+
 ###### flow
 
 輸入
@@ -320,6 +324,7 @@ cond(no)->sub1(right)->op
 [回到頁首](#top)
 
 ---
+
 ###### stateDiagram
 
 輸入
@@ -349,6 +354,7 @@ stateDiagram
 [回到頁首](#top)
 
 ---
+
 ###### pie
 
 輸入
@@ -374,6 +380,7 @@ pie
 [回到頁首](#top)
 
 ---
+
 ###### graph
 
 輸入
